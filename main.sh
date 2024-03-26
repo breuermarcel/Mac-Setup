@@ -23,9 +23,6 @@ echo -e "${GREEN}Installiere Pakete...${NC}"
 
 # List of packages to install
 PACKAGES=(
-  # Git
-  git
-
   # Terminal
   starship
   zsh
@@ -37,9 +34,31 @@ PACKAGES=(
   wget
   curl
 
-  # Casks
-  visual-studio-code
+  # Browser
+  firefox
+  google-chrome
+
+  # Office
+  microsoft-office
   slack
+  zoom
+  miro
+
+  # Development
+  iterm2
+  git
+  python
+  pip
+  docker
+  visual-studio-code
+  font-fira-code
+
+  # Other
+  btop
+  alt-tap
+  alfred
+  appcleaner
+  stat
 )
 
 # Install packages
