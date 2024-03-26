@@ -56,9 +56,10 @@ PACKAGES=(
   # Other
   btop
   alt-tap
-  alfred
+  raycast
   appcleaner
   stat
+  bitwarden
 )
 
 # Install packages
