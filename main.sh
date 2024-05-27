@@ -43,6 +43,7 @@ PACKAGES=(
   slack
   zoom
   miro
+  notion
 
   # Development
   iterm2
