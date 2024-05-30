@@ -61,6 +61,9 @@ PACKAGES=(
   appcleaner
   stat
   bitwarden
+
+  # Artificial Intelligence
+  ollama
 )
 
 # Install packages
