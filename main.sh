@@ -54,6 +54,7 @@ PACKAGES=(
   visual-studio-code
   font-fira-code
   openvpn
+  openvpn-connect
 
   # Other
   btop
