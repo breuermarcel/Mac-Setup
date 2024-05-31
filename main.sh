@@ -53,6 +53,7 @@ PACKAGES=(
   docker
   visual-studio-code
   font-fira-code
+  openvpn
 
   # Other
   btop
